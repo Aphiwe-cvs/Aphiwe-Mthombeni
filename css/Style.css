@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(68, 52, 126);
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    margin: 0;
+    padding: 20px;
+}
+
+ul{
+    background-color: rgb(52, 206, 253);
+    color: aliceblue;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 25px;
+    width: 10cm;
+}
+
+a{
+    background-color: rgb(41, 199, 247);
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    width: 10cm;
+    padding: 20px;
+    border-radius: 10cm;
+}
