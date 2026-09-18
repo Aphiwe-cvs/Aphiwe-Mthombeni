@@ -147,5 +147,16 @@ button:active, a.btn:active{
     }
     h1{ font-size: 1.75rem;}
     h2{ font-size: 1.4rem; }
+
+    main{
+        width: 95%;
+        margin: 1rem auto;
+    }
+
+    a.btn, button{
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
     
 }
