@@ -245,4 +245,6 @@ The website consists of 5 core HTML pages:
 
 Part 3 introduced JavaScript functionality and additional styling to improve the Inkanyezi Events website. The improvements aim to make the website more interactive, user-friendly and responsive across different devices. Search functionality, image enlargement, an interactive map and improved contact form functionality were also introduced.
 
-The website was further improved through on-page SEO recommendations, off-page SEO strategies and basic security measures.
+The website was further improved through on-page SEO recommendations, off-page SEO strategies and basic security measures. 
+
+Also Improved CSS from Last Feedback
