@@ -241,6 +241,24 @@ The website consists of 5 core HTML pages:
 - Added error messages to help users correct invalid information.
 - Implemented AJAX form submission to improve the submission experience without refreshing the page.
 
+- References
+
+MDN Web Docs. https://developer.mozilla.org/
+
+Leaflet. https://leafletjs.com/examples/quick-start/
+
+OpenStreetMap. https://www.openstreetmap.org/
+
+FormSubmit. https://formsubmit.co/
+
+Google Search Central. https://developers.google.com/search/docs
+
+Google Search Central – SEO Starter Guide. https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+
+MDN Web Docs – Fetch API. https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+MDN Web Docs – HTML Form Validation. https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation
+
 ### Overall Result
 
 Part 3 introduced JavaScript functionality and additional styling to improve the Inkanyezi Events website. The improvements aim to make the website more interactive, user-friendly and responsive across different devices. Search functionality, image enlargement, an interactive map and improved contact form functionality were also introduced.
@@ -248,3 +266,4 @@ Part 3 introduced JavaScript functionality and additional styling to improve the
 The website was further improved through on-page SEO recommendations, off-page SEO strategies and basic security measures. 
 
 Also Improved CSS from Last Feedback
+And Uploaded Website to Netlify
