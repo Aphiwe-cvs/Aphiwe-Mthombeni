@@ -171,3 +171,78 @@ The website consists of 5 core HTML pages:
 * **v1.0 (Part 1 Initial Release):**
   * Built 5-page semantic HTML5 structure.
   * Submitted proposal document, site plan, and references.
+  * 
+# CHANGELOG – PART 3: JAVASCRIPT, INTERACTIVITY AND SEO
+
+**Website:** Inkanyezi Events  
+**Student:** Aphiwe Mthombeni  
+**Date:** 2 November 2026  
+**Part:** Part 3 – JavaScript and Advanced Website Functionality
+
+### Changes and Improvements Made
+
+**1. JavaScript Implementation**
+- Created a new external JavaScript file named `inkanyezi.js`.
+- Connected the JavaScript file to all five HTML pages.
+- Used beginner-friendly JavaScript to add interactive website features.
+
+**2. Interactive Website Elements**
+- Added tabs to the home page to display different event planning services.
+- Added an accordion section to the services page to display frequently asked questions.
+- Added a mobile navigation menu to improve website navigation.
+
+**3. Interactive Map**
+- Implemented an interactive map using the Leaflet JavaScript library.
+- Added a location marker and popup to demonstrate a location-based feature.
+
+**4. Animations and Transitions**
+- Added hover effects to buttons, links and gallery images.
+- Added CSS transitions to improve the appearance of interactive elements.
+- Added simple scrolling animations to website sections.
+
+**5. DOM Manipulation**
+- Used JavaScript to create and insert new HTML elements into the existing pages.
+- Used dynamic content to display services without manually writing every service card in HTML.
+
+**6. Image Gallery and Lightbox**
+- Added a lightbox feature to the gallery page.
+- Visitors can click an image to view a larger version.
+- Added options to close the enlarged image.
+
+**7. Dynamic Content, Search and Sorting**
+- Created a JavaScript array containing event planning services.
+- Added a search function to help visitors find specific services.
+- Added alphabetical sorting options (A–Z and Z–A).
+
+**8. On-page Search Engine Optimization (SEO)**
+- Added page-specific title tags and meta descriptions.
+- Identified relevant keywords for the website's event planning services.
+- Improved image alternative text and internal navigation links.
+- Improved mobile responsiveness.
+
+**9. Off-page Search Engine Optimization (SEO)**
+- Identified opportunities to obtain backlinks from relevant event businesses.
+- Recommended promoting the website through Facebook and Instagram.
+- Identified local SEO improvements for Inkanyezi Events.
+
+**10. Website Security**
+- Added form validation to reduce incorrect information being submitted.
+- Recommended using HTTPS when hosting the website.
+- Identified the need for secure password storage and server-side validation.
+
+**11. Contact Form Functionality**
+- Improved the contact form by adding a message category, event date and full message field.
+- Added a submit button.
+- Included basic contact information validation.
+- Prepared the form to send enquiries to the organisation's email address.
+
+**12. JavaScript Form Validation and AJAX**
+- Added JavaScript validation to check information before submission.
+- Added error messages to help users correct invalid information.
+- Implemented AJAX form submission to improve the submission experience without refreshing the page.
+
+### Overall Result
+
+Part 3 introduced JavaScript functionality and additional styling to improve the Inkanyezi Events website. The improvements aim to make the website more interactive, user-friendly and responsive across different devices. Search functionality, image enlargement, an interactive map and improved contact form functionality were also introduced.
+
+The website was further improved through on-page SEO recommendations, off-page SEO strategies and basic security measures.
